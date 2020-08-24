@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Program operation examples](#program-operation-examples)
+* [Program operation examples](#examples-of-program-effects)
 * [Status](#status)
 
 ## General info
