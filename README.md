@@ -32,7 +32,22 @@ The program was written completely in C language.
 
 ###### Result (file 'new.bmp'):
   <img src="cmake-build-debug/new.bmp" alt="ex1" width="440" height="330"/>
+  
+  
+#### Ex. 2
+```meanwhile
+   // input
+   
+    BLUE (0-255): 200
+    GREEN (0-255): -1
+    RED (0-255): 0
 
+    OK, now enter the exact file name of the photo: 
+    Eiffel.bmp
+```
+
+###### Result:
+  <img src="cmake-build-debug/ex2.bmp" alt="ex2" width="440" height="330"/>
 
 
 ## Status
